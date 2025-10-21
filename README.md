@@ -1,5 +1,6 @@
-# 🚀 Medium API - Green Amigo Challenge
+ Medium API - Green Amigo Challenge
 
+<<<<<<< HEAD
 Uma API REST completa para uma plataforma similar ao Medium, desenvolvida com Node.js, Express, PostgreSQL e Sequelize.
 
 ## 📋 Funcionalidades
@@ -318,3 +319,5 @@ Desenvolvido para o Green Amigo Medium Challenge.
 ## 📞 Suporte
 
 Para dúvidas ou suporte, abra uma issue no repositório.
+=======
+>>>>>>> 2b1ed5a43dbee5d722ab781ca2c6be654989b971
